@@ -16,9 +16,11 @@ will be placed on the right side.
 ----------------------------------------------------------------------
 1. FOLDER LAYOUT
 ----------------------------------------------------------------------
+
 Your project folder can be named anything you want. Inside this main 
 folder, you must have the main script file and a subfolder named 
 "resources".
+
 ----------------------------------------------------------------------
 2. HOW TO PREPARE YOUR FILES
 ----------------------------------------------------------------------
