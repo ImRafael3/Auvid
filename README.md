@@ -19,18 +19,6 @@ will be placed on the right side.
 Your project folder can be named anything you want. Inside this main 
 folder, you must have the main script file and a subfolder named 
 "resources".
-
-The structure must look exactly like this:
-
-Your_Main_Folder/
-    make_video.py
-    resources/
-        settings.txt
-        your_text.txt (any format, optional)
-        your.audio.mp3 (any format)
-        your_image.png (any format)
-        font.ttf
-
 ----------------------------------------------------------------------
 2. HOW TO PREPARE YOUR FILES
 ----------------------------------------------------------------------
