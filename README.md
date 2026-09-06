@@ -5,9 +5,7 @@ This script was made by ImRafael.
 
 TikTok: .imrafael1
 
-=====================================================================
 HOW TO USE
-======================================================================
 
 This script creates a watermark-free .mp4 video ready for YouTube
 from any audio file, image/video file, and optional text file.
