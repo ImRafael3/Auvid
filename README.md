@@ -21,7 +21,7 @@ And you can make it so its only the cover
 1. FOLDER STRUCTURE
 ----------------------------------------------------------------------
 
-<img width="498" height="235" alt="image" src="https://github.com/user-attachments/assets/ecd236d7-8106-4ec5-8f6d-b32fb8e2faa3" />
+<img width="514" height="236" alt="image" src="https://github.com/user-attachments/assets/e6b59492-924e-4cb0-9557-2e0d29b35660" />
 
 ----------------------------------------------------------------------
 2. INSTALL DEPENDENCIES (first time only)
