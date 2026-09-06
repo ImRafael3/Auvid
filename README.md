@@ -112,6 +112,7 @@ Choose option 2 to render.
 The output file is: youtube_ready.mp4
 
 Video Output Example:
-https://github.com/user-attachments/assets/ed07b0f1-6c2e-4dd9-af9a-2cd39f7d9620
+
+https://github.com/user-attachments/assets/26446d6b-a430-4a9b-9166-ab6cf597de8f
 
 https://github.com/user-attachments/assets/5b1b21d1-7596-4cec-9aae-23e2540514d2
