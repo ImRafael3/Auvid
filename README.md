@@ -111,3 +111,8 @@ Double click make_video.py
 Choose option 2 to render.
 The output file is: youtube_ready.mp4
 
+<img width="1113" height="623" alt="image" src="https://github.com/user-attachments/assets/2d2325c0-db18-4b7c-ab82-6766683ae47a" />
+
+Video Output Example:
+
+https://github.com/user-attachments/assets/51b5f143-47aa-4769-b50b-93d5d38e5d1a
