@@ -13,6 +13,9 @@ from any audio file, image/video file, and optional text file.
 Text appears on the left side by default.
 The cover image/video appears on the right by default.
 You can change positions freely (see section 4).
+And you can make it so its only the cover
+
+## The script is made with python 3, which can be installed on its website
 
 ----------------------------------------------------------------------
 1. FOLDER STRUCTURE
@@ -34,7 +37,6 @@ Your_Main_Folder/
 ----------------------------------------------------------------------
 2. INSTALL DEPENDENCIES (first time only)
 ----------------------------------------------------------------------
-
 Run the installer. It only downloads what is missing.
 
   Windows:
@@ -101,21 +103,21 @@ You can also write combined values like: right+20  or  left-10
 ----------------------------------------------------------------------
 
   video_width / video_height   resolution (default 1280x720)
-  fps / static_fps             frames per second
+  fps / static_fps             frames per second (only use static_fps if the video is 100% static, kinda useless)
   font_size                    text size
-  text_color                   text color (white, yellow, red...)
+  text_color                   text color
   max_characters_per_line      auto line wrap
   foreground_width             cover size
   background_opacity           0.0 to 1.0
   background_blur_strength     0 to 50
   background_scale_mode        stretch / fit / fill
   audio_codec / audio_bitrate  audio quality
+  fit_video_to_image_size      1 or 0
 
 ----------------------------------------------------------------------
 6. RUN THE SCRIPT
 ----------------------------------------------------------------------
-
-  python make_video.py
+Double click make_video.py
 
 Choose option 2 to render.
 The output file is: youtube_ready.mp4
