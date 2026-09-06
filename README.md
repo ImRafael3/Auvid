@@ -22,7 +22,8 @@ And you can make it so its only the cover
 ----------------------------------------------------------------------
 
 Your_Main_Folder/
-⠀⠀⠀make_video.py
+⠀⠀⠀
+make_video.py
 ⠀⠀⠀install_dependencies.py
 ⠀⠀⠀resources/
 ⠀⠀⠀⠀⠀ settings.txt
