@@ -21,17 +21,7 @@ And you can make it so its only the cover
 1. FOLDER STRUCTURE
 ----------------------------------------------------------------------
 
-Your_Main_Folder/
-⠀⠀⠀
-make_video.py
-⠀⠀⠀install_dependencies.py
-⠀⠀⠀resources/
-⠀⠀⠀⠀⠀ settings.txt
-⠀⠀⠀⠀⠀⠀your_text.txt⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(optional)
-⠀⠀⠀⠀⠀⠀your_audio.mp3⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(any audio format)
-⠀⠀⠀⠀⠀⠀foreground_cover.png⠀⠀⠀⠀⠀(or .jpg .gif .mp4 etc.)
-⠀⠀⠀⠀⠀⠀background_image.png⠀⠀⠀⠀⠀(optional)
-⠀⠀⠀⠀⠀⠀NotoSans-Regular.ttf⠀⠀⠀⠀⠀(or any .ttf font)
+<img width="498" height="235" alt="image" src="https://github.com/user-attachments/assets/ecd236d7-8106-4ec5-8f6d-b32fb8e2faa3" />
 
 ----------------------------------------------------------------------
 2. INSTALL DEPENDENCIES (first time only)
