@@ -22,17 +22,15 @@ And you can make it so its only the cover
 ----------------------------------------------------------------------
 
 Your_Main_Folder/
-    make_video.py
-    install_dependencies.py
-    install_dependencies.bat      (Windows)
-    install_dependencies.sh       (macOS / Linux)
-    resources/
-        settings.txt
-        your_text.txt             (optional)
-        your_audio.mp3            (any audio format)
-        foreground_cover.png      (or .jpg .gif .mp4 etc.)
-        background_image.png      (optional)
-        NotoSans-Regular.ttf      (or any .ttf font)
+⠀⠀⠀make_video.py
+⠀⠀⠀install_dependencies.py
+⠀⠀⠀resources/
+⠀⠀⠀⠀⠀ settings.txt
+⠀⠀⠀⠀⠀⠀your_text.txt⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(optional)
+⠀⠀⠀⠀⠀⠀your_audio.mp3⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(any audio format)
+⠀⠀⠀⠀⠀⠀foreground_cover.png⠀⠀⠀⠀⠀(or .jpg .gif .mp4 etc.)
+⠀⠀⠀⠀⠀⠀background_image.png⠀⠀⠀⠀⠀(optional)
+⠀⠀⠀⠀⠀⠀NotoSans-Regular.ttf⠀⠀⠀⠀⠀(or any .ttf font)
 
 ----------------------------------------------------------------------
 2. INSTALL DEPENDENCIES (first time only)
