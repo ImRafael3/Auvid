@@ -139,6 +139,7 @@ video_profile / video_level  optional H.264 options
 ```
 python make_video.py
 ```
+or just double click the make_video.py file
 
 Choose option 2 to render.
 The output file is: youtube_ready.mp4
